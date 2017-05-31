@@ -1,5 +1,5 @@
-我的仓库地址
-git@github.com:junwl/wei_github.git
+#我的仓库地址
+#git@github.com:junwl/wei_github.git
 or
 https://github.com/junwl/wei_github.git
 
